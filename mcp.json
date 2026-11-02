@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "brightdoor": {
+      "url": "https://app.brightdoor.ai/api/mcp"
+    }
+  }
+}
