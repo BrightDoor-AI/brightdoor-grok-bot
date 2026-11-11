@@ -7,6 +7,7 @@
 - **Read:** your business profile, published pages, approved answers, reviews, and posts.
 - **Stats:** visitors, Google and Bing search, rankings, whether AI assistants name you, speed, uptime, form stats, and your monthly report.
 - **Leads:** list and open leads; move a lead, set a follow-up, or add a note, each with Undo.
+- **Contacts and deals:** who to call today, search your contacts, see deals and your pipeline; add a contact, tag, note, task, or move a deal, each with Undo. Draft a note to a contact that waits for you to read and send it.
 - **Suggest:** changes to your hours, services, wording, and questions, and new posts. Every suggestion waits for your OK in BrightDoor. Nothing publishes on its own.
 
 It can never publish, approve, pay, or delete. What it can do depends on the switches you pick when you sign in, and you can change them or turn it off any time under Settings, Connected apps.
